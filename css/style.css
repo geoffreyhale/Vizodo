@@ -1,0 +1,56 @@
+
+canvas {
+  background: #EEE;
+}
+
+
+
+
+#top-bar {
+  background: #eee;
+}
+#user-box {
+  float: right;
+}
+
+#view-item-container {
+  position: relative;
+  width: 1200px;
+}
+.view-item {
+  position: absolute;
+  padding: 5px;
+  border-left: 1px solid #F00;
+  border-top: 1px dotted #F00;
+}
+
+
+#new-item-form-container {
+}
+.new-item-input-container {
+  display: block;
+}
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Box
+ */
+
+.box {
+  display: inline-block;
+  margin: 15px;
+  padding: 15px;
+  background: #eee;
+}
